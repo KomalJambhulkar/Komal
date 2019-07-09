@@ -3,7 +3,7 @@
 3.Mango
 4.Guava
 5.Stawberry
-4.Orange
-5.PineApple
-6.WaterMellon
+6.Orange
+7.PineApple
+8.WaterMellon
 
