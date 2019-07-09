@@ -2,3 +2,5 @@
 2.Banana
 3.Mango
 4.Orange
+5.PineApple
+6.WaterMellon
